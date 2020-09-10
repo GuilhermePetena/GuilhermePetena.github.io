@@ -1,0 +1,33 @@
+.cor-titulo{
+    color: rgb(10, 100, 173);
+}
+
+.cor-bg{
+    background-color: rgb(10, 100, 173);
+}
+.fonte {
+    font-family: 'Lobster', cursive;
+}
+
+.borda-conteudo {
+    border-color: rgb(10, 100, 173);
+}
+.imagem-carrossel {
+    object-fit:cover; object-position: 0 50%;
+    height: 400px;
+  }
+.carrossel {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+.card-largura {
+    max-width: 18rem;
+}
+.card-largura-sobre {
+    max-width: 540px;
+}
+
